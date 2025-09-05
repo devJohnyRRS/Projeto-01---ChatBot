@@ -19,6 +19,18 @@ O chatbot possui as seguintes características:
   - Organiza a conversa de forma profissional.  
 --
 
-## 📌 Observações  
-- O projeto tem caráter **educacional** e foi inspirado nos conceitos aprendidos em sala de aula e nos materiais do curso.  
+## 📌 Execução 
+Para executar o chatbot:
+
+Importar o notebook para a plataforma do curso (Jupyter).
+
+Rodar os blocos de código na ordem apresentada.
+
+Interagir com o chatbot:
+
+- Faça 3 perguntas ao chatbot.
+
+- Na última pergunta, será apresentado um resumo da conversa.
+
+Vídeo:
 ---
