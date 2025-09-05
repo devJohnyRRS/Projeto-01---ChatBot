@@ -22,7 +22,7 @@ O chatbot possui as seguintes características:
 ## 📌 Execução 
 Para executar o chatbot:
 
--Importar o notebook para a plataforma do curso (Jupyter).
+-Importar o arquivo notebook para a plataforma do curso (Jupyter).
 
 -Rodar os blocos de código na ordem apresentada.
 
