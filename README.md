@@ -32,5 +32,7 @@ Para executar o chatbot:
 
 - Na última pergunta, será apresentado um resumo da conversa.
 
-Vídeo:
+Vídeo: 
+
+https://youtu.be/fwfR90AsRKQ
 ---
